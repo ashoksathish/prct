@@ -2,6 +2,8 @@
 <head>
 <title>biodata</title>
 <body>
+Hai
+How are you
 Ashok
 Mtech-software
 </body>
